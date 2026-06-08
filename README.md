@@ -51,8 +51,8 @@ Cada pasta conta um capítulo da história do produto. Não é só documentaçã
 | 07 | [🖼️ Wireframes](./07-wireframes/) | Fluxos e decisões de UX |
 | 08 | [📈 Métricas](./08-metricas/) | North Star, KPIs e framework de acompanhamento |
 | 09 | [🚀 Lançamento](./09-lancamento/) | Go-to-market e estratégia de aquisição |
-| 10 | [⚖️ Decisões de Produto](./10-decisoes/) | Decision log com contexto e raciocínio |
-| 11 | [📓 PM Journal](./11-pm-journal/) | Aprendizados semana a semana como PM |
+| 10 | [🖥️ Protótipo Navegável](./10-prototipo/) | Protótipo HTML interativo que simula a experiência do usuário no Clarity |
+
 
 ---
 
