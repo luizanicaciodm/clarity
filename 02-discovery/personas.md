@@ -6,7 +6,7 @@
 
 ## Como chegamos aqui
 
-Depois de 8 entrevistas, padrões começaram a aparecer. Agrupamos os perfis em duas personas primárias e uma secundária — não como personagens fictícios, mas como representações reais de quem vai usar o Clarity todo dia.
+Depois de 8 entrevistas, padrões começaram a aparecer. Agrupamos os perfis em duas personas primárias e uma secundária, não como personagens fictícios, mas como representações reais de quem vai usar o Clarity todo dia.
 
 ---
 
@@ -15,15 +15,15 @@ Depois de 8 entrevistas, padrões começaram a aparecer. Agrupamos os perfis em 
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  ANA                                                         │
-│  28 anos · QA → Product Manager                             │
-│  São Paulo · Salário: R$ 5.500/mês                          │
-│  Estuda: à noite e nos fins de semana                       │
+│  28 anos · QA → Product Manager                              │
+│  São Paulo · Salário: R$ 5.500/mês                           │
+│  Estuda: à noite e nos fins de semana                        │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ### Contexto
 
-Ana é QA há 3 anos. Gosta da área de tecnologia, mas sente que quer estar mais perto das decisões de produto. Já fez um curso de PM, está estudando métricas, assiste podcasts de produto — mas quando alguém pergunta "você está pronta para virar PM?", ela trava. Não sabe como responder com confiança.
+Ana é QA há 3 anos. Gosta da área de tecnologia, mas sente que quer estar mais perto das decisões de produto. Já fez um curso de PM, está estudando métricas, assiste podcasts de produto, mas quando alguém pergunta "você está pronta para virar PM?", ela trava. Não sabe como responder com confiança.
 
 ### Objetivos
 
@@ -58,9 +58,9 @@ Ana é QA há 3 anos. Gosta da área de tecnologia, mas sente que quer estar mai
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  BRUNO                                                       │
-│  31 anos · Analista de Dados Pleno                          │
-│  Curitiba · Salário: R$ 7.000/mês                           │
-│  Quer: promoção para Sênior em 12 meses                     │
+│  31 anos · Analista de Dados Pleno                           │
+│  Curitiba · Salário: R$ 7.000/mês                            │
+│  Quer: promoção para Sênior em 12 meses                      │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -101,15 +101,15 @@ Bruno é bom no que faz. Recebe elogios do time, entrega no prazo, nunca deu pro
 ```
 ┌──────────────────────────────────────────────────────────────┐
 │  CARLA                                                       │
-│  24 anos · Recém-formada em Administração                   │
-│  Belo Horizonte · Primeiro emprego na área de tech          │
-│  Estudou: tudo que apareceu, sem filtro                     │
+│  24 anos · Recém-formada em Administração                    │
+│  Belo Horizonte · Primeiro emprego na área de tech           │
+│  Estudou: tudo que apareceu, sem filtro                      │
 └──────────────────────────────────────────────────────────────┘
 ```
 
 ### Contexto
 
-Carla se formou animada, fez vários cursos durante a graduação — Python, Excel, UX, produto — mas agora não sabe o que fazer com tudo isso. Tem vontade, tem energia, mas não tem direção. Aplica para vagas diferentes toda semana e não recebe retorno.
+Carla se formou animada, fez vários cursos durante a graduação — Python, Excel, UX, produto, mas agora não sabe o que fazer com tudo isso. Tem vontade, tem energia, mas não tem direção. Aplica para vagas diferentes toda semana e não recebe retorno.
 
 ### Frase que define
 
@@ -125,7 +125,7 @@ O JTBD captura o trabalho funcional, emocional e social que cada persona está t
 
 **Quando** estou tentando fazer a transição para PM,  
 **Quero** saber exatamente o que ainda falta no meu perfil,  
-**Para que** eu possa me candidatar a vagas com confiança — e não ser pega de surpresa numa entrevista.
+**Para que** eu possa me candidatar a vagas com confiança, e não ser pega de surpresa numa entrevista.
 
 ### JTBD — Bruno
 
