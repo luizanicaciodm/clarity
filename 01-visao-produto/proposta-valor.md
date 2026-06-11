@@ -14,11 +14,11 @@
 
 ### Para quem está em transição de carreira
 
-Você não precisa mais adivinhar quais cursos fazer. O Clarity entende seu objetivo e sugere os próximos passos baseado no que você já sabe — e no que o mercado está pedindo.
+Você não precisa mais adivinhar quais cursos fazer. O Clarity entende seu objetivo e sugere os próximos passos baseado no que você já sabe, e no que o mercado está pedindo.
 
 ### Para quem quer crescer onde já está
 
-Você organiza tudo que já aprendeu, define onde quer chegar em 6 ou 12 meses, e acompanha sua evolução semana a semana. Quando chegar a hora da conversa de promoção, você tem dados — não só memória.
+Você organiza tudo que já aprendeu, define onde quer chegar em 6 ou 12 meses, e acompanha sua evolução semana a semana. Quando chegar a hora da conversa de promoção, você tem dados e não só memória.
 
 ### Para quem se sente perdido
 
@@ -52,7 +52,7 @@ Clarity                   →  conecta tudo isso em um só lugar.
 
 ## Posicionamento
 
-> **Para profissionais em desenvolvimento que se sentem perdidos entre cursos e certificados, o Clarity é o app de carreira que transforma aprendizado fragmentado em evolução com direção — ao contrário das plataformas de cursos, que entregam conteúdo mas não estratégia.**
+> **Para profissionais em desenvolvimento que se sentem perdidos entre cursos e certificados, o Clarity é o app de carreira que transforma aprendizado fragmentado em evolução com direção, ao contrário das plataformas de cursos, que entregam conteúdo mas não estratégia.**
 
 ---
 
