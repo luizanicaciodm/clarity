@@ -12,10 +12,10 @@
 │   ⭐  Objetivos Profissionais Concluídos por Usuário        │
 │                                                             │
 │   Por quê?                                                  │
-│   Porque é o momento em que o Clarity entregou o que       │
-│   prometeu. Não é sobre cursos registrados, não é sobre    │
-│   sessões no app — é sobre alguém que chegou onde          │
-│   queria chegar.                                           │
+│   Porque é o momento em que o Clarity entregou o que        │
+│   prometeu. Não é sobre cursos registrados, não é sobre     │
+│   sessões no app — é sobre alguém que chegou onde           │
+│   queria chegar.                                            │
 │                                                             │
 └─────────────────────────────────────────────────────────────┘
 ```
