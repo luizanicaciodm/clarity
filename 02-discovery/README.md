@@ -1,6 +1,6 @@
 # 🔍 Discovery
 
-A fase de discovery é onde o produto começa de verdade — não numa tela, mas numa conversa.
+A fase de discovery é onde o produto começa de verdade, não numa tela, mas numa conversa.
 
 | Documento | Conteúdo |
 |-----------|----------|
