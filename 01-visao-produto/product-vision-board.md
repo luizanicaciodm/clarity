@@ -12,7 +12,7 @@
 │   VISÃO                                                                 │
 │   ──────────────────────────────────────────────────────────────────    │
 │   Ser a referência em auto-gestão de carreira para profissionais        │
-│   em desenvolvimento no Brasil, a ferramenta que conecta               │
+│   em desenvolvimento no Brasil, a ferramenta que conecta                │
 │   aprendizado com evolução real.                                        │
 │                                                                         │
 ├────────────────────┬────────────────────┬────────────────────────────   │
