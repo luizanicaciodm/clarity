@@ -6,7 +6,7 @@
 
 ## Como lemos estas entrevistas
 
-Cada entrevista revelou algo que mudou — ou confirmou — uma decisão de produto. Ao lado de cada trecho, anotamos o impacto no produto.
+Cada entrevista revelou algo que mudou, ou confirmou, uma decisão de produto. Ao lado de cada trecho, anotamos o impacto no produto.
 
 ---
 
@@ -36,7 +36,7 @@ Cada entrevista revelou algo que mudou — ou confirmou — uma decisão de prod
 
 > *"Às vezes sinto que estou evoluindo. Às vezes acho que estou dando voltas. Não tenho como saber de verdade."*
 
-💡 **Impacto no produto:** Dashboard de evolução virou prioridade. Não pode ser só uma lista de cursos — precisa mostrar progresso real.
+💡 **Impacto no produto:** Dashboard de evolução virou prioridade. Não pode ser só uma lista de cursos, precisa mostrar progresso real.
 
 ---
 
@@ -50,7 +50,7 @@ Cada entrevista revelou algo que mudou — ou confirmou — uma decisão de prod
 
 > *"Meu gestor me disse para 'continuar evoluindo'. Tá, mas evoluindo o quê? Para onde? Nunca ficou claro."*
 
-💡 **Impacto no produto:** A feature de "objetivo de carreira" precisa permitir metas específicas e mensuráveis — não só "quero crescer". Funcionalidade de milestone com prazo virou requisito.
+💡 **Impacto no produto:** A feature de "objetivo de carreira" precisa permitir metas específicas e mensuráveis, não só "quero crescer". Funcionalidade de milestone com prazo virou requisito.
 
 ---
 
@@ -80,7 +80,7 @@ Cada entrevista revelou algo que mudou — ou confirmou — uma decisão de prod
 
 > *"Meu portfólio no LinkedIn é uma bagunça. Coloco coisas lá e elas ficam sem contexto. Ninguém sabe o que cada coisa significa."*
 
-💡 **Impacto no produto:** Portfólio automático com narrativa de carreira virou diferencial de V2. Não só listar o que fez — contar a história de evolução.
+💡 **Impacto no produto:** Portfólio automático com narrativa de carreira virou diferencial de V2. Não só listar o que fez, é contar a história de evolução.
 
 ---
 
