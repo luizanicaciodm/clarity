@@ -8,7 +8,7 @@
 
 É domingo à noite. Você abre o LinkedIn e vê uma vaga que parece perfeita. Lê os requisitos. Pensa: *"Eu fiz um curso sobre isso. Ou foi sobre aquilo? Acho que sim."*
 
-Vai atrás do certificado. Está num e-mail de 2022. Ou no Drive. Ou na plataforma da faculdade — que você nem lembra a senha.
+Vai atrás do certificado. Está num e-mail de 2022. Ou no Drive. Ou na plataforma da faculdade, que você nem lembra a senha.
 
 Você tem o conhecimento. Mas não consegue provar. E pior: não sabe bem o que ainda falta para chegar onde quer.
 
@@ -38,9 +38,9 @@ Não é preguiça. Não é falta de esforço. São três falhas estruturais:
 
 A pesquisa com usuários (veja em [02-discovery](../02-discovery/)) identificou três perfis principais:
 
-- **Profissionais em transição de carreira** — sabem o que querem, mas não sabem o caminho
-- **Analistas buscando promoção** — estudam, mas sem estratégia definida
-- **Recém-formados** — muito conteúdo, pouca direção
+- **Profissionais em transição de carreira**: sabem o que querem, mas não sabem o caminho
+- **Analistas buscando promoção**: estudam, mas sem estratégia definida
+- **Recém-formados**: muito conteúdo, pouca direção
 
 ---
 
@@ -61,7 +61,7 @@ Esse é o espaço do Clarity.
 
 ## A oportunidade
 
-O mercado de aprendizado online brasileiro cresceu mais de 60% nos últimos 3 anos. Pessoas estão dispostas a pagar por conteúdo — mas ainda não existe uma ferramenta que ajude a transformar esse conteúdo em carreira.
+O mercado de aprendizado online brasileiro cresceu mais de 60% nos últimos 3 anos. Pessoas estão dispostas a pagar por conteúdo, mas ainda não existe uma ferramenta que ajude a transformar esse conteúdo em carreira.
 
 É um problema de produto, não de mercado.
 
