@@ -36,15 +36,15 @@
 │   Qual é o seu objetivo profissional        │
 │   para os próximos 12 meses?                │
 │                                             │
-│   ┌─────────────────────────────────────┐  │
-│   │  Ex: Virar Product Manager          │  │
-│   └─────────────────────────────────────┘  │
+│   ┌─────────────────────────────────────┐   │
+│   │  Ex: Virar Product Manager          │   │
+│   └─────────────────────────────────────┘   │
 │                                             │
-│   Prazo:  [ 6 meses ]  [ 12 meses ]  [ 2a ]│
+│   Prazo:  [ 6 meses ]  [ 12 meses ]  [ 2a ] │ 
 │                                             │
-│   ┌─────────────────────────────────────┐  │
-│   │         Continuar →                 │  │
-│   └─────────────────────────────────────┘  │
+│   ┌─────────────────────────────────────┐   │
+│   │         Continuar →                 │   │
+│   └─────────────────────────────────────┘   │
 │                                             │
 │   Você pode mudar isso a qualquer momento.  │
 │                                             │
@@ -66,16 +66,16 @@ A frase "Você pode mudar isso a qualquer momento" reduz ansiedade. Muitos usuá
 │  Olá, Ana 👋                          [check-in] [+] │
 │                                                      │
 │  ┌────────────────────────────────────────────────┐  │
-│  │  🎯 Virar Product Manager em 12 meses          │  │
+│  │  🎯 Virar Product Manager em 12 meses         │   │
 │  │  ████████████░░░░░░░░  42% concluído           │  │
 │  │  6 meses restantes                             │  │
 │  └────────────────────────────────────────────────┘  │
 │                                                      │
 │  Seu progresso esta semana                           │
-│  ┌──────────┐  ┌──────────┐  ┌──────────┐           │
-│  │ 3 cursos │  │ 8h study │  │ 4ª semana│           │
-│  │ no total │  │ este mês │  │ seguida  │           │
-│  └──────────┘  └──────────┘  └──────────┘           │
+│  ┌──────────┐  ┌──────────┐  ┌──────────┐            │
+│  │ 3 cursos │  │ 8h study │  │ 4ª semana│            │
+│  │ no total │  │ este mês │  │ seguida  │            │
+│  └──────────┘  └──────────┘  └──────────┘            │
 │                                                      │
 │  Próximo passo sugerido                              │
 │  ┌────────────────────────────────────────────────┐  │
@@ -101,8 +101,8 @@ O "próximo passo sugerido" é contextual: mostra exatamente o que falta, não u
 ```
 ┌─────────────────────────────────────────────┐
 │                                             │
-│   ✅ Check-in da semana                     │
-│   Leva menos de 2 minutos.                 │
+│   ✅ Check-in da semana                    │
+│   Leva menos de 2 minutos.                  │
 │                                             │
 │   O que você estudou essa semana?          │
 │   ┌─────────────────────────────────────┐  │
@@ -112,17 +112,17 @@ O "próximo passo sugerido" é contextual: mostra exatamente o que falta, não u
 │   │  [ ] Fiz um projeto prático         │  │
 │   │  [ ] Conclui um curso               │  │
 │   └─────────────────────────────────────┘  │
-│                                             │
+│                                            │
 │   Como você está se sentindo em relação    │
 │   ao seu desenvolvimento?                  │
-│                                             │
-│   😞  😐  🙂  😊  🚀                       │
-│                                             │
+│                                            │
+│   😞  😐  🙂  😊  🚀                    │
+│                                            │
 │   ┌─────────────────────────────────────┐  │
 │   │         Registrar check-in          │  │
 │   └─────────────────────────────────────┘  │
-│                                             │
-└─────────────────────────────────────────────┘
+│                                            │
+└────────────────────────────────────────────┘
 ```
 
 **Decisão de UX:** O check-in tem duas perguntas — uma funcional (o que estudou) e uma emocional (como está se sentindo). A segunda parece simples, mas é o dado mais valioso: permite identificar usuários em risco de churn antes que eles saiam.
@@ -139,23 +139,23 @@ O emoji como interface para sentimento reduz fricção: sem caixa de texto, sem 
 ┌─────────────────────────────────────────────────┐
 │  Sua trilha para: Virar Product Manager         │
 │                                                 │
-│  HABILIDADES TÉCNICAS              3/5 ▓▓▓░░   │
+│  HABILIDADES TÉCNICAS              3/5 ▓▓▓░░    │
 │  ✅ Fundamentos de produto                      │
 │  ✅ Metodologias ágeis                          │
 │  ✅ Análise de dados básica                     │
 │  ○  Métricas de produto          ← próximo      │
-│  ○  SQL para PMs                               │
+│  ○  SQL para PMs                                │
 │                                                 │
-│  HABILIDADES COMPORTAMENTAIS       1/4 ▓░░░    │
+│  HABILIDADES COMPORTAMENTAIS       1/4 ▓░░░     │
 │  ✅ Comunicação com stakeholders               │
-│  ○  Priorização e tomada de decisão            │
-│  ○  Gestão de conflitos                        │
-│  ○  Liderança sem autoridade                   │
+│  ○  Priorização e tomada de decisão             │
+│  ○  Gestão de conflitos                         │
+│  ○  Liderança sem autoridade                    │
 │                                                 │
-│  CONHECIMENTO DE MERCADO           0/3 ░░░     │
-│  ○  Como funciona um time de produto           │
-│  ○  Discovery e pesquisa com usuários          │
-│  ○  Go-to-market básico                        │
+│  CONHECIMENTO DE MERCADO           0/3 ░░░      │
+│  ○  Como funciona um time de produto            │
+│  ○  Discovery e pesquisa com usuários           │
+│  ○  Go-to-market básico                         │
 │                                                 │
 └─────────────────────────────────────────────────┘
 ```
